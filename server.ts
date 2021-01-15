@@ -1,4 +1,3 @@
-#!/usr/bin/env -S npx ts-node
 import Fastify, { FastifyReply, FastifyRequest } from 'fastify';
 import {
   postgraphile,
